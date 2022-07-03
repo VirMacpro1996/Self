@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108392412212",
+    "project_id": "self-vir",
+    "storage_bucket": "self-vir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108392412212:android:0bc1406b4dc28ab6cb0661",
+        "android_client_info": {
+          "package_name": "com.vir.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108392412212-hiuk1d7li01505pqpor7c75piaglr4mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJImnzo5tLL6z6kwb0ShqXxbBoiWw6RUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108392412212-hiuk1d7li01505pqpor7c75piaglr4mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
